@@ -1,4 +1,4 @@
-package com.fips.sse;
+package com.thiru.sse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,11 +1,11 @@
-package com.fips.sse.controller;
+package com.thiru.sse.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fips.sse.model.Usage;
+import com.thiru.sse.model.Usage;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

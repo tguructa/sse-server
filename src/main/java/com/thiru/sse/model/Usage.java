@@ -1,4 +1,4 @@
-package com.fips.sse.model;
+package com.thiru.sse.model;
 
 import java.util.Date;
 
